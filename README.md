@@ -10,6 +10,7 @@
     Maximum current delivered 6A
 
 The output is quite simple to set just change the value of R1 - R2 - CFF , here is an example table:
+<img width="896" height="421" alt="1781030731811" src="https://github.com/user-attachments/assets/2e14c6be-947d-4878-90fc-3af16298f67d" />
 
 Obviously, being a step down and if powered directly from the battery, I do NOT recommend output voltages below 2.5v.
 
