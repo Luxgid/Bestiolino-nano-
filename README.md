@@ -20,3 +20,6 @@ Here it is in action on PS2:
 
 
 Making a quick comparison with the tlv62095 testing outrun 2006 in demo mode I got 3h and 5min, with "Bestiolino" I went up to 3h and 27min only by replacing this regulator, about 12% more efficient.
+
+The PCB has an F1 output for testing (I added a 3A self-resetting one), but it's best to remove it if it's working properly.
+The inductor I chose was a 1uH inductor, but if you have height issues, you can use a 0.22uH like: AWLU0420F-R22MPA after a few quick tests, it seems to work properly.
